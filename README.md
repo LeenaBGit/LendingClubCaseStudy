@@ -1,5 +1,8 @@
 # Lending Club Case Study
-Lending Club is a consumer finance company which specialises in lending various types of loans to urban customers. When the company receives a loan application, it makes a decision for loan approval based on the applicant’s profile. If the applicant is likely to repay the loan, then not approving the loan will result in a loss of business to the company. If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company. The primary objective of this case study is to assist Lending Club in mitigating financial losses from these risks by identifying risky loan applicants.
+Lending Club is a consumer finance company which specializes in lending various types of loans to customers. 
+If the company approves the loan for an applicant who is not likely to repay the loan, it will cause a financial loss for the company. 
+However, if the company doesn’t approve the loan for an applicant who is likely to repay the loan, it will result in a loss of business.
+As such it is vital to identify risky loan applicants
 
 
 ## Table of Contents
@@ -11,9 +14,8 @@ Lending Club is a consumer finance company which specialises in lending various 
 
 
 ## General Information
-
-- The project aims to identify the driving factors behind loan default, i.e. the variables which are strong indicators of default and thus identify risky loan applicants
-- The dataset contains information about past loan applicants and whether they ‘defaulted’ or not
+- The case study aims to identify the driving factors behind loan default, i.e. the variables which are strong indicators of default and thus identify risky loan applicants
+- The dataset contains complete loan data for all approved loans issued through the time period 2007 to 2011.
 
 
 ## Conclusions
